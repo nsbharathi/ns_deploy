@@ -1,0 +1,12 @@
+2024-07-14 12:58:08,930 INFO {'publicIp': '', 'Description': 'Public IP for ec2 instance'}
+2024-07-14 12:58:08,931 ERROR {'publicIp': '', 'Description': 'Public IP for ec2 instance'}
+2024-07-14 15:31:36,953 INFO {'publicIp': '', 'Description': 'Public IP for ec2 instance'}
+2024-07-14 15:31:36,953 ERROR {'publicIp': '', 'Description': 'Public IP for ec2 instance'}
+2024-07-14 15:37:39,346 INFO {'publicIp': '', 'Description': 'Public IP for ec2 instance'}
+2024-07-14 15:37:39,346 ERROR {'publicIp': '', 'Description': 'Public IP for ec2 instance'}
+2024-07-14 15:53:05,988 INFO {'publicIp': '', 'Description': 'Public IP for ec2 instance'}
+2024-07-14 15:53:05,988 ERROR {'publicIp': '', 'Description': 'Public IP for ec2 instance'}
+2024-07-14 16:07:09,612 INFO {'publicIp': '', 'Description': 'Public IP for ec2 instance'}
+2024-07-14 16:07:09,612 ERROR {'publicIp': '', 'Description': 'Public IP for ec2 instance'}
+2024-07-14 16:10:38,591 INFO {'publicIp': '13.127.5.112', 'Description': 'Public IP for ec2 instance'}
+2024-07-14 16:10:38,592 ERROR {'publicIp': '13.127.5.112', 'Description': 'Public IP for ec2 instance'}
